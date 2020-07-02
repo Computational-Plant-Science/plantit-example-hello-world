@@ -1,3 +1,4 @@
+visibility: public
 container: docker://alpine
 commands: echo $MESSAGE
 params:
