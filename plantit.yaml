@@ -1,0 +1,5 @@
+description: An easy-peasy example workflow.
+container: docker://alpine
+commands: echo $MESSAGE
+params:
+  message: Hello, plant person!
