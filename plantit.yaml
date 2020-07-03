@@ -1,6 +1,6 @@
-visibility: public
-image: docker://alpine
+public: True
 clone: False
+image: docker://alpine
 commands: echo $MESSAGE
 params:
   message: Hello, plant person!
