@@ -3,4 +3,4 @@ clone: False
 image: docker://alpine
 commands: echo $MESSAGE
 params:
-  message: Hello, plant person!
+ - message
