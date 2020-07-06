@@ -1,5 +1,7 @@
 public: True
 clone: False
+input: False
+output: False
 image: docker://alpine
 commands: echo $MESSAGE
 params:
