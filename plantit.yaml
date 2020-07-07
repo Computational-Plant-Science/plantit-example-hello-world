@@ -1,3 +1,5 @@
+name: Hello World
+author: Wes Bonelli
 public: True
 clone: False
 image: docker://alpine
