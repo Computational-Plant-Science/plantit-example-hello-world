@@ -1,3 +1,3 @@
-# PlantIT : Hello World (Shell)
+# PlantIT: Hello World (Shell)
 
 A sample shell pipeline.
