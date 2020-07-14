@@ -3,6 +3,6 @@ author: Wes Bonelli
 public: True
 clone: False
 image: docker://alpine
-commands: echo $MESSAGE
+commands: echo "$MESSAGE"
 params:
  - message
