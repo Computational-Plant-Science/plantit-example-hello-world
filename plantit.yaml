@@ -4,5 +4,6 @@ public: True
 clone: False
 image: docker://alpine
 commands: echo "$MESSAGE"
+logo: bash_logo.png
 params:
  - message
