@@ -1,3 +1,3 @@
-# PlantIT Examples: Hello Shell
+# PlantIT Examples: Hello World.
 
-A simple shell PlantIT pipeline. Verified compatible only on the Bourne shell, though may work with others.
+A simple shell PlantIT pipeline. Verified compatible only on the Bourne Again Shell, though may work with others.
