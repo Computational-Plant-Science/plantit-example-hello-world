@@ -7,3 +7,8 @@ commands: echo "$MESSAGE"
 logo: bash_logo.png
 params:
  - message
+resources:
+  time: "01:00:00"
+  mem: "1GB"
+  tasks: 1
+  cores: 1
