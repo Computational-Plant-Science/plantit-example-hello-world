@@ -10,5 +10,5 @@ params:
 resources:
   time: "00:10:00"
   mem: "1GB"
-  tasks: 1
+  processes: 1
   cores: 1
