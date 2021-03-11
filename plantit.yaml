@@ -6,7 +6,9 @@ image: docker://alpine
 commands: echo "$MESSAGE"
 logo: bash_logo.png
 params:
- - message
+ - name: message
+   type: string
+   default: Hello, world!
 resources:
   time: "00:10:00"
   mem: "1GB"
