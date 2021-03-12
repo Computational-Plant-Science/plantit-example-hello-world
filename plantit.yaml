@@ -1,14 +1,9 @@
-name: Hello World
-author: Wes Bonelli
+name: Example: Hello World
 public: True
 clone: False
 image: docker://alpine
-commands: echo "$MESSAGE"
+commands: echo "Hello, world!"
 logo: bash_logo.png
-params:
- - name: message
-   type: string
-   default: Hello, world!
 resources:
   time: "00:10:00"
   mem: "1GB"
