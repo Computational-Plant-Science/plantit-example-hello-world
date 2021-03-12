@@ -1,4 +1,4 @@
-name: Example: Hello World
+name: "Example: Hello World"
 public: True
 clone: False
 image: docker://alpine
