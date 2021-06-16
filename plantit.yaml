@@ -4,8 +4,8 @@ clone: False
 image: docker://alpine
 commands: echo "Hello, world!"
 logo: bash_logo.png
-resources:
+jobqueue:
   time: "00:10:00"
-  mem: "1GB"
+  memory: "1GB"
   processes: 1
   cores: 1
