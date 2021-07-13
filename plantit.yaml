@@ -5,7 +5,7 @@ image: docker://alpine
 commands: echo "Hello, world!"
 logo: bash_logo.png
 jobqueue:
-  time: "00:10:00"
+  walltime: "00:10:00"
   memory: "1GB"
   processes: 1
   cores: 1
