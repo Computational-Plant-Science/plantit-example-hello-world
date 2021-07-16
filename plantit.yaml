@@ -2,7 +2,7 @@ name: "Example: Hello World"
 public: True
 clone: False
 image: docker://alpine
-commands: echo "Hello, world!"
+commands: echo "Hello, world"
 logo: bash_logo.png
 jobqueue:
   walltime: "00:10:00"
