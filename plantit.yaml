@@ -1,4 +1,5 @@
 name: "Example: Hello World"
+author: Computational Plant Science Lab
 public: True
 clone: False
 image: docker://alpine
